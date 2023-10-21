@@ -1,0 +1,13 @@
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\VeganNotifier.exe
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\VeganNotifier.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\VeganNotifier.deps.json
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\VeganNotifier.runtimeconfig.json
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\VeganNotifier.pdb
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\BouncyCastle.Cryptography.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\MailKit.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\MimeKit.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\System.Formats.Asn1.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\System.Security.Cryptography.Pkcs.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\System.Text.Encoding.CodePages.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\personalStuffs\Vegan-Notifier\VeganNotifier\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
